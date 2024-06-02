@@ -6,7 +6,7 @@ The dataset was taken from: https://www.kaggle.com/datasets/vjchoudhary7/custome
 The goal of this project is to group the customers into various clusters based on their characteristics so that the sense can be given to marketing team and plan the strategy accordingly.
 
 ## Features
-- Data cleaning and preproccesing
+- Data cleaning and preprocessing
 - Exploratory Data Analysis
 - Implementation of the k-means clustering algorithm
 - Allotment of customers into various clusters
