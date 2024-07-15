@@ -1,4 +1,4 @@
-# Prodigy_ML_02
+# Mall Customer Segmentation
 This project focuses on Mall Customer Segmentation using K-Means Clustering Algorithm.
 
 The dataset was taken from: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data. The dataset has some basic information about customers at a mall like Customer ID, age, gender, annual income and spending score.
